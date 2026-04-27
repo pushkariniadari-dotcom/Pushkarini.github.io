@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+  font-size: xx-large;
+}
+
+h2 {
+  color: Black;
+  font-size: large;
+}
+h3 {
+  color: Black;
+  font-size: medium;
+}
